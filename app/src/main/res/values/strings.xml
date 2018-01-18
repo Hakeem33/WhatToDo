@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">whatToDo</string>
+
+    <string name="Story1">Denzel,5 and Rattle,6 Went out to play and a van stopped by.An old woman asked whether both of them would like some candy in their van.</string>
+    <string name="Story1Ans1">They both said yes</string>
+    <string name="Story1Ans2">They both said no</string>
+
+    <string name="Story2">They went to the van wanting to get some candy.</string>
+    <string name="Story2Ans1">Denzel and Rattle asked for the candy </string>
+    <string name="Story2Ans2">Denzel and Rattle feels a little scared.They want to get out. </string>
+
+
+    <string name="Story3">The both said \"No thanks,we don\'t talk to strangers\".The old woman went to them. </string>
+    <string name="Story3Ans1">They ran for home.</string>
+    <string name="Story3Ans2">They just stayed there and continue playing.</string>
+
+
+    <string name="Story4">Denzel and Rattle was never found ever again.so always say \"No to strangers kids.\"</string>
+    <string name="Story5">Turns the old woman was well built. She took the Denzel and Rattle into the van by force.They were never seen again.so remember to run away kids </string>
+    <string name="Story6">Denzel and Rattle was safe and manage to carry on with lives normally.</string>
+
+</resources>
